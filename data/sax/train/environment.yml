@@ -1,0 +1,10 @@
+name: py39
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+dependencies:
+  - python=3.9
+  - spyder
+prefix: C:\Users\dania\.conda\envs\py39
